@@ -1,8 +1,21 @@
-# React + Vite
+# Product Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A working prototype of the Agent Publishing Observability system has been built to demonstrate how metrics and insights are surfaced across agent-level and system-level views.
 
-Currently, two official plugins are available:
+## Showcases:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Agent publishing timeline with failures and status
+
+System-level dashboard with key operational metrics
+
+Contextual AI-driven insights embedded within workflows
+
+## Data & Implementation
+
+Uses static/mock data to simulate real publishing scenarios
+
+AI insights are pre-generated (not real-time LLM calls), designed to demonstrate how generative AI can enhance debugging and decision-making
+
+## Links
+
+Live Demo: https://agent-publishing-hub.vercel.app/
